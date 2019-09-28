@@ -4,5 +4,5 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 remote_theme : mmistakes/minimal-mistakes
-url:"scym12.github.io"
+url: https://scym12.github.io
 baseurl: ""
