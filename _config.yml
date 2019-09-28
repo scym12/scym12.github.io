@@ -4,5 +4,5 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 remote_theme : mmistakes/minimal-mistakes
-url:"https://github.com/scym12/studycsharp.github.io"
+url:"scym12.github.io"
 baseurl: ""
